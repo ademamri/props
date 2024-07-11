@@ -1,0 +1,26 @@
+.navbar{
+  display: flex;
+  background-color: bisque;
+  justify-content: space-between;
+}
+.logo{
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  gap: 40px;
+}
+.liste{
+display: flex;
+justify-content: space-between;
+align-items: center;
+flex-wrap: wrap;
+}
+.card{
+  border: 1px solid black;
+  width: 25%;
+  height: 400px;
+  gap: 30px; 
+  margin-top: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
